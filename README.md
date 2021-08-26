@@ -1,2 +1,2 @@
-# Forma-o-Python
+# Formação-Python
 Cursos de Python da Alura 
